@@ -17,4 +17,3 @@ Ensure you have the following dependencies installed before running the applicat
 - Streamlit
 - scikit-learn
 - NLP
-- Other necessary libraries (install via `pip install -r requirements.txt`)
