@@ -1,4 +1,4 @@
-# Wine Quality Prediction Flask App
+# Sentiment_Analysis_of_Restaurant_Reviews
 
 ## Overview
 
